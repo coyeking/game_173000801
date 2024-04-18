@@ -1,0 +1,203 @@
+
+TurnWheel.png
+size: 561,561
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon/BG_Mask
+  rotate: false
+  xy: 2, 99
+  size: 92, 240
+  orig: 92, 240
+  offset: 0, 0
+  index: -1
+icon/ButtonSweep_01
+  rotate: true
+  xy: 476, 90
+  size: 59, 61
+  orig: 80, 80
+  offset: 4, 7
+  index: -1
+icon/ButtonSweep_02
+  rotate: false
+  xy: 391, 44
+  size: 66, 66
+  orig: 80, 80
+  offset: 5, 9
+  index: -1
+icon/ButtonSweep_03
+  rotate: false
+  xy: 478, 151
+  size: 64, 62
+  orig: 80, 80
+  offset: 12, 15
+  index: -1
+icon/FX_Golw_02
+  rotate: false
+  xy: 216, 191
+  size: 123, 126
+  orig: 128, 128
+  offset: 2, 1
+  index: -1
+icon/FX_Radiance_07
+  rotate: false
+  xy: 2, 3
+  size: 94, 94
+  orig: 100, 100
+  offset: 3, 3
+  index: -1
+icon/FX_Ring02
+  rotate: false
+  xy: 216, 80
+  size: 115, 109
+  orig: 134, 113
+  offset: 3, 1
+  index: -1
+icon/FX_Shock_Wave_06
+  rotate: false
+  xy: 98, 32
+  size: 115, 115
+  orig: 128, 128
+  offset: 7, 6
+  index: -1
+icon/LightLine_01
+  rotate: true
+  xy: 215, 36
+  size: 42, 128
+  orig: 42, 128
+  offset: 0, 0
+  index: -1
+icon/Light_02
+  rotate: false
+  xy: 403, 431
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+icon/Light_03
+  rotate: false
+  xy: 391, 197
+  size: 85, 85
+  orig: 86, 86
+  offset: 1, 0
+  index: -1
+icon/Light_07
+  rotate: true
+  xy: 510, 47
+  size: 41, 22
+  orig: 80, 30
+  offset: 16, 4
+  index: -1
+icon/Line_01
+  rotate: false
+  xy: 403, 400
+  size: 130, 29
+  orig: 130, 65
+  offset: 0, 18
+  index: -1
+icon/Rotation_BGFX01_00
+  rotate: false
+  xy: 2, 341
+  size: 220, 218
+  orig: 240, 240
+  offset: 10, 12
+  index: -1
+icon/Star_12
+  rotate: false
+  xy: 345, 41
+  size: 44, 42
+  orig: 50, 44
+  offset: 3, 1
+  index: -1
+icon/Star_17s
+  rotate: false
+  xy: 224, 415
+  size: 177, 144
+  orig: 211, 180
+  offset: 6, 26
+  index: -1
+icon/Wheel-frame
+  rotate: false
+  xy: 391, 112
+  size: 83, 83
+  orig: 116, 108
+  offset: 16, 24
+  index: -1
+icon/Wheel_BG
+  rotate: false
+  xy: 478, 215
+  size: 67, 67
+  orig: 116, 108
+  offset: 25, 32
+  index: -1
+icon/eft_moon_03
+  rotate: false
+  xy: 193, 2
+  size: 39, 28
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+icon/eft_swirl_s
+  rotate: true
+  xy: 459, 41
+  size: 47, 49
+  orig: 50, 50
+  offset: 3, 0
+  index: -1
+icon/energy bar
+  rotate: true
+  xy: 533, 474
+  size: 85, 8
+  orig: 116, 108
+  offset: 15, 25
+  index: -1
+icon/energy bar bg
+  rotate: false
+  xy: 98, 14
+  size: 93, 16
+  orig: 116, 108
+  offset: 11, 21
+  index: -1
+icon/energy bar frame
+  rotate: true
+  xy: 509, 287
+  size: 111, 41
+  orig: 116, 108
+  offset: 2, 1
+  index: -1
+icon/fg_chose_4
+  rotate: true
+  xy: 224, 319
+  size: 94, 167
+  orig: 94, 167
+  offset: 0, 0
+  index: -1
+icon/fg_chose_x4
+  rotate: false
+  xy: 96, 149
+  size: 118, 190
+  orig: 120, 193
+  offset: 1, 1
+  index: -1
+icon/fg_chose_x5
+  rotate: false
+  xy: 341, 143
+  size: 48, 174
+  orig: 50, 186
+  offset: 0, 4
+  index: -1
+icon/light_00
+  rotate: false
+  xy: 333, 85
+  size: 56, 56
+  orig: 60, 60
+  offset: 2, 2
+  index: -1
+icon/lizi_01
+  rotate: false
+  xy: 393, 284
+  size: 114, 114
+  orig: 128, 128
+  offset: 8, 9
+  index: -1
+
